@@ -58,5 +58,5 @@ a:hover, a:focus { text-decoration: none; }
 .celeb_news .news_info .news_content { padding-left: 10px; }
 .celeb_news .news_info .news_content h5 { margin: 0px; }
 @media(max-width:480px) {
-    .owl-carousel .owl-stage-outer { height: 435px; }
+    .owl-carousel .owl-item img{ height: 435px; }
 }
